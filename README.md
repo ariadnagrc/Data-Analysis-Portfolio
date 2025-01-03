@@ -17,7 +17,7 @@ En este repositorio, iré agregando proyectos que abarcan desde análisis explor
 - Datos: Archivos CSV, Excel o cualquier otro formato de datos utilizado en el análisis.
 - Gráficas: Imágenes o gráficos generados como parte del análisis.
 - README: Descripción y explicación de cada proyecto.
-- 
+
 # Objetivos
 - Demostrar mis conocimientos en el uso de Python para análisis de datos.
 - Aplicar técnicas estadísticas y de visualización para extraer insights de los datos.
