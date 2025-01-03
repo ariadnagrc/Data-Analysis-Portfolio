@@ -1,0 +1,15 @@
+ABOUT DATASET 
+https://www.kaggle.com/datasets/angelmartinezromero/datos-tienda-simple-playground/data
+
+Esta base cuenta con 3 años de información registros de ingresos diarios de 5 tiendas diferentes (datos generados aleatoriamente) con el objetivo de que puedas familiarizarte con los dataset de Kaggle y algunas funciones de la librería pandas en las notebooks.
+
+La propuesta es que puedas responder a las siguientes preguntas (3 vienen respondidas en la libreta de muestra y las otras 2 son un reto para el lector):
+
+- ¿Cuál es la tienda que mayor ingresos produce y la que menos?
+- ¿En que año hubo mayores ventas en la tienda #3?
+- ¿Cuáles fueron los ingresos totales el año 2020 entre todas las tiendas?
+- ¿Cuál es históricamente el mejor mes?
+- ¿Cuántos productos se vendieron entre 2019 y 2020?
+
+
+
