@@ -11,5 +11,6 @@ La propuesta es que puedas responder a las siguientes preguntas (3 vienen respon
 - ¿Cuál es históricamente el mejor mes?
 - ¿Cuántos productos se vendieron entre 2019 y 2020?
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+Ejercicio que me ha servido para practicar la librería de pandas y plotly. Nivel inicial.
